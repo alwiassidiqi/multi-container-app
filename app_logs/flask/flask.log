@@ -1,0 +1,1371 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.4:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37661dc90>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 08:58:54] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37661e550>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 08:59:04] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37662e550>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 08:59:14] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37663a050>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 08:59:25] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37661f710>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 08:59:35] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37663a550>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 08:59:45] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f376641e10>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 08:59:55] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37661e190>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:00:05] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f376639dd0>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:00:15] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37662c110>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:00:26] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37662e990>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:00:36] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f376638ad0>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:00:46] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f376616310>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:00:56] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f3766169d0>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:01:06] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37661ff10>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:01:16] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37662d450>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:01:27] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f376651dd0>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:01:37] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37661f550>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:01:47] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37662ca10>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:01:57] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f3766507d0>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:02:07] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f376615c10>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:02:17] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f3766437d0>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:02:27] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37663a810>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:02:38] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f376638450>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:02:48] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37662e250>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:02:58] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37661f010>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:03:08] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f376651690>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:03:18] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37662f750>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:03:28] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f376642cd0>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:03:39] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f376651c50>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:03:49] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f376639810>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:03:59] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37662e710>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:04:09] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37661dc90>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:04:19] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f376640c10>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:04:29] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f3777dd150>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:04:40] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f376638a10>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:04:50] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f376650390>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:05:00] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f376641b10>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:05:10] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37661dd10>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:05:20] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37662c090>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:05:30] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f376615850>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:05:41] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f376641510>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:05:51] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37663a450>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:06:01] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f376643910>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:06:11] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37663b790>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:06:21] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37661fe90>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:06:31] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37662da50>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:06:42] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f376638f50>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:06:52] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f376642590>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:07:02] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37662f610>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:07:12] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f376639610>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:07:22] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f376641a10>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:07:32] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37662df10>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:07:43] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f376641650>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:07:53] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37661fa50>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:08:03] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37663a110>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:08:13] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f376650cd0>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:08:23] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37662f950>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:08:33] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37663be10>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:08:44] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f3766501d0>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:08:54] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37662ca90>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:09:04] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f376643b90>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:09:14] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f376617650>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:09:24] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37663b410>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:09:34] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f3766437d0>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:09:45] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37662e410>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:09:55] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f376650490>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:10:05] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f3766417d0>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:10:15] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f376638150>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:10:25] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f376652790>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:10:35] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37663b010>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:10:46] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37662fed0>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:10:56] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f376640490>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:11:06] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37662f510>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:11:16] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37661ff10>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:11:26] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f376614d10>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:11:36] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f376652a50>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:11:47] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f376638ed0>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:11:57] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37662ccd0>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:12:07] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f376653250>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:12:17] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37662dd50>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:12:27] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37663af90>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:12:38] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f376641d50>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:12:48] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37663b410>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:12:58] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37661d350>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:13:08] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37662d210>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:13:18] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f376650190>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:13:28] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f376640d90>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:13:38] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37662eb50>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:13:49] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f376650650>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:13:59] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f376639b90>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:14:09] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37662f450>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:14:19] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37661f190>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:14:29] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f376614290>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:14:39] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37662cf10>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:14:50] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f376638950>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:15:00] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f376651050>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:15:10] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37662c510>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:15:20] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f376639750>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:15:30] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f376652810>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:15:40] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37662d110>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:15:51] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x73f37661f8d0>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:16:01] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: 2005 (HY000): Unknown MySQL server host 'db' (-3)
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:16:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.4:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x7edf8a9edb90>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:27:19] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x7edf8a9eecd0>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:27:29] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x7edf8a9fe450>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:27:39] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x7edf8aa09f50>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:27:50] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x7edf8a9ef550>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:28:00] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x7edf8aa0a3d0>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:28:10] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x7edf8aa11c90>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:28:20] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x7edf8a9eef90>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:28:30] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x7edf8aa09b50>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:28:40] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x7edf8ac4bfd0>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:28:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.4:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x72546e035e10>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:30:31] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x72546e037010>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:30:41] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x72546e046790>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:30:51] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x72546e052210>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:31:01] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x72546e0377d0>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:31:11] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x72546e0526d0>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:31:22] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x72546e059f50>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:31:32] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x72546e037550>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:31:42] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x72546e051f10>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:31:52] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x72546e047910>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:32:02] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x72546e047990>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:32:12] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x72546e052b90>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:32:23] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x72546e02e5d0>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:32:33] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x72546e02e750>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:32:43] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x72546e0508d0>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:32:53] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x72546e0455d0>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:33:03] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x72546e06a010>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:33:13] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x72546e0351d0>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:33:23] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x72546e046610>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:33:34] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x72546e0681d0>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:33:44] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x72546e02e4d0>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:33:54] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x72546e051dd0>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:34:04] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x72546e044210>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:34:14] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x72546e05ac10>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:34:25] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x72546e052010>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:34:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.4:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x790e45235e10>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:35:22] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x790e45237050>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:35:32] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x790e45246790>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:35:42] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x790e45252210>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:35:53] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x790e45237250>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:36:03] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x790e45252710>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:36:13] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x790e45259f90>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:36:23] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x790e45237550>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:36:33] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x790e45251f10>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:36:43] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x790e45247910>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:36:53] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x790e45247990>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:37:04] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x790e45250fd0>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:37:14] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x790e4522d350>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:37:24] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x790e4522de50>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:37:34] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x790e452500d0>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:37:44] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x790e45244f90>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:37:54] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x790e4526a010>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:38:05] "GET / HTTP/1.1" 200 -
+ERROR:root:Terjadi kesalahan: HTTPConnectionPool(host='backend', port=5000): Max retries exceeded with url: /api/message (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x790e45237790>: Failed to resolve 'backend' ([Errno -3] Temporary failure in name resolution)"))
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:38:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.4:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:39:00] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:39:10] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:39:20] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:39:30] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:39:40] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:39:50] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:40:01] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:172.18.0.1 - - [28/Jul/2025 09:40:10] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:40:11] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:40:21] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:40:31] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:40:41] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:40:51] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:41:01] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:41:12] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:41:22] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:41:32] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:41:42] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:41:52] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:42:02] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:42:12] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:42:23] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:42:33] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:42:43] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:42:53] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:43:03] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:43:13] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:43:24] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:43:34] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:43:44] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:43:54] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:44:04] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:44:14] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:44:24] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:44:35] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:44:45] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:44:55] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:45:05] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:45:15] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:45:25] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:45:36] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:45:46] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:45:56] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:46:06] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:46:16] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:46:26] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:46:36] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:46:47] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:46:57] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:47:07] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:47:17] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:47:27] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:47:37] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:47:48] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:47:58] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:48:08] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:48:18] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:48:28] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:48:38] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:48:49] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:48:59] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:49:09] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:49:19] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:49:29] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:49:39] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:49:50] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:50:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.4:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:50:48] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:50:58] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:51:08] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:51:18] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:51:29] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:51:39] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:51:49] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:51:59] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:52:09] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:52:19] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:52:30] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:52:40] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:52:50] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:53:00] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:53:10] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:53:20] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:53:31] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:53:41] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:53:51] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:54:01] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:54:11] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:54:21] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:54:31] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:54:42] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:54:52] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:55:02] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:55:12] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:55:22] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:55:32] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:55:43] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:55:53] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:56:03] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:56:13] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:56:23] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:56:33] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:56:43] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:56:54] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:57:04] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:57:14] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:57:24] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:57:34] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:57:44] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:57:54] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:58:05] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:58:15] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:58:25] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:58:35] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:58:45] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:58:55] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:59:06] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:59:16] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:59:26] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:59:36] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:59:46] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 09:59:56] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:00:07] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:00:17] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:00:27] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:00:37] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:00:47] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:00:57] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:01:07] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:01:18] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:01:28] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:01:38] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:01:48] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:01:58] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:02:08] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:02:19] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:02:29] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:02:39] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:02:49] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:03:00] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:03:10] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:03:20] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:03:30] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:03:41] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:03:51] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:04:01] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:04:12] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:04:22] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:04:32] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:04:42] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:04:53] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:05:03] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:05:13] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:05:23] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:05:34] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:05:44] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:05:54] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:06:04] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:06:15] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:06:25] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:06:35] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:06:45] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:06:55] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:07:06] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:07:16] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:07:26] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:07:36] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:07:47] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:07:57] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:08:07] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:08:17] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:08:28] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:08:38] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:08:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.4:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:10:33] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:10:43] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:172.18.0.1 - - [28/Jul/2025 10:10:51] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:10:53] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:11:04] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:11:14] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:11:24] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:11:34] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:11:45] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:11:55] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:12:05] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:12:15] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:12:26] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:12:36] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:12:46] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:12:56] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:13:07] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:13:17] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:13:27] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:13:37] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:13:48] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:13:58] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:14:08] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:14:18] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:14:29] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:14:39] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:14:49] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:14:59] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:15:10] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:15:20] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:15:30] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:15:40] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:15:51] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:16:01] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:16:11] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:16:21] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:16:32] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:16:42] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:16:52] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:17:03] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:17:13] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:17:23] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:17:33] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:17:44] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:17:54] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:18:04] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:18:14] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:18:25] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:18:35] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:18:45] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:18:55] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:19:06] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:19:16] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:19:26] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:19:37] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:19:47] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:19:57] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:20:07] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:20:18] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:20:28] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:20:38] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:20:48] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:20:59] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:21:09] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:21:19] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:21:29] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:21:40] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:21:50] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:22:00] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:22:10] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:22:21] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:22:31] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:22:41] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:22:51] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:23:02] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:23:12] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:23:22] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:23:32] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:23:43] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:23:53] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:24:03] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:24:13] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:24:24] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:24:34] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:24:44] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:24:55] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:25:05] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:25:15] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:25:25] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:25:36] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:25:46] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:25:56] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:26:06] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:26:17] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:26:27] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:26:37] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:26:47] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:26:58] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:27:08] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:27:18] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:27:28] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:27:39] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:27:49] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:27:59] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:28:09] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:39:39] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:39:49] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:40:00] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:40:10] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:40:20] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:40:31] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:40:41] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:40:51] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:41:01] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:41:12] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:41:22] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:41:32] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:41:42] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:41:53] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:42:03] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:42:13] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:42:23] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:42:34] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:42:44] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:42:54] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:43:04] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:43:15] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:43:25] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:43:35] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:43:45] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:43:56] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:44:06] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:44:16] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:44:26] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:44:37] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:44:47] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:44:57] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:45:07] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:45:18] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:45:28] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:45:38] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:45:48] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:45:59] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:46:09] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:46:19] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:46:29] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:46:40] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:46:50] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:47:00] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:47:10] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:47:21] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:47:31] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:47:41] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:47:51] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:48:02] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:48:12] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:48:22] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:48:33] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:48:43] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:48:53] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:49:03] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:49:14] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:49:24] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:49:34] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:49:44] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:49:55] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:50:05] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:50:15] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:50:26] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:50:36] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:50:46] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:50:56] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:51:07] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:51:17] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:51:27] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:51:37] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:51:48] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:51:58] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:52:08] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:52:18] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:52:29] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:52:39] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:52:49] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:52:59] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:53:10] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:53:20] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:53:30] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:53:40] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:53:51] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:54:01] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:54:11] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:54:21] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:54:32] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:54:42] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:54:52] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:55:02] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:55:13] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:55:23] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:55:33] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:55:43] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:55:54] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:56:04] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:56:14] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:56:24] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:56:35] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:56:45] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:56:55] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:57:05] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:57:16] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:57:26] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:57:36] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:57:46] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:57:57] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:58:07] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:58:17] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:58:27] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:58:37] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:58:48] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:58:58] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:59:08] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:59:18] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:59:29] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:59:39] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:59:49] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 10:59:59] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:00:10] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:12:44] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:12:54] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:13:04] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:13:14] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:13:25] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:13:35] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:13:45] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:13:55] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:14:06] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:14:16] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:14:26] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:14:36] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:14:47] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:14:57] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:15:07] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:15:17] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:15:27] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:15:38] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:15:48] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:15:58] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:16:08] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:16:19] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:16:29] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:16:39] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:16:49] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:17:00] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:17:10] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:17:20] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:17:30] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:17:41] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:17:51] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:18:01] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:18:11] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:18:21] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:18:32] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:18:42] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:18:52] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:19:02] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:19:13] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:19:23] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:19:33] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:19:43] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:19:54] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:20:04] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:20:14] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:20:24] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:20:35] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:20:45] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:20:55] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:172.18.0.1 - - [28/Jul/2025 11:21:00] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:21:05] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:21:16] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:21:26] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:21:36] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:21:46] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:21:57] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:22:07] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:22:17] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:22:27] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:22:38] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:22:48] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:22:58] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:23:09] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:23:19] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:23:29] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:23:39] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:23:50] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:24:00] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:24:10] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:24:20] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:24:30] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:24:41] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:24:51] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:25:01] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:25:11] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:25:22] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:25:32] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:25:42] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:25:52] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:26:03] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:26:13] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:26:23] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:26:33] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:26:44] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:26:54] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:27:04] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:27:14] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:27:24] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:27:35] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:27:45] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:27:55] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:28:05] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:28:16] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:28:26] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:28:36] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:28:46] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:28:57] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:29:07] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:29:17] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:29:27] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:29:38] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:29:48] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:29:58] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:30:08] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:30:19] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:30:29] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:30:39] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:30:49] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:31:00] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:31:10] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:31:20] "GET / HTTP/1.1" 200 -
+INFO:root:Pesan dari backend: Halo dari backend Node.js<br>MySQL version: 8.4.6
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 11:31:30] "GET / HTTP/1.1" 200 -

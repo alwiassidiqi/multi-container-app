@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  backend:
+    volumes:
+      - ./backend:/app
+    command: npm run dev
+    environment:
+      NODE_ENV: development
+    working_dir: /app
+
+  app:
+    volumes:
+      - ./app:/app
+    environment:
+      FLASK_APP: app.py
+      FLASK_ENV: development
