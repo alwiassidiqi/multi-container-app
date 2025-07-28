@@ -11,17 +11,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout source code
-      uses: actions/checkout@v3
+      - name: Checkout source code
+        uses: actions/checkout@v3
 
-    - name: Set up Docker Buildx
-      uses: docker/setup-buildx-action@v2
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v2
 
-    - name: Build and tag Flask app
-      run: docker build -t flask-app ./app
-
-    - name: Build and tag Backend app
-      run: docker build -t backend-app ./backend
-
-    - name: Run docker-compose
-      run: docker-compose -f docker-compose.yml -f docker-compose.override.yml up -d --build
+      - name: Run Docker Compose
+        run: |
+          docker compose -f docker-compose.yml -f docker-compose.override.yml up -d --build
+          sleep 10  # Beri waktu kontainer untuk naik
+          docker ps
+          
+      - name: Check Flask API
+        run: |
+          curl -f http://localhost:5000 || exit 1
