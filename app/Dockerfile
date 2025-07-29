@@ -5,6 +5,7 @@ WORKDIR /app
 
 COPY requirements.txt ./
 RUN pip install --user --no-cache-dir -r requirements.txt
+RUN pip install --user pytest
 
 COPY . .
 
