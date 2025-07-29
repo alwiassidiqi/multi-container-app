@@ -3,10 +3,9 @@ import os
 from app import app
 
 class BasicTests(unittest.TestCase):
-
     def setUp(self):
-	os.environ['TESTING'] = '1'
-	self.app = app.test_client()
+        os.environ['TESTING'] = '1'
+        self.app = app.test_client()
 
     def test_main_page(self):
         response = self.app.get('/')
