@@ -13,6 +13,9 @@ logging.basicConfig(filename=log_file, level=logging.INFO)
 
 @app.route('/')
 def index():
+    if os.environ.get("TESTING") == "1":
+        return "Hello, World! (mocked)"
+
     try:
         # Hubungkan ke database
         db = mysql.connector.connect(
